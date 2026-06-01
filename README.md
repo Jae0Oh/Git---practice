@@ -26,5 +26,9 @@
 최고점: 영어 (92.0점)
 최저점: 수학 (75.0점)
 
+## 개발 환경
+- Python 3.x
+- Git / GitHub
+
 ## 사용법
 python grades.py
